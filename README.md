@@ -14,4 +14,5 @@ You can find more about me on my [Portfolio](https://itsprashant.me)
 
 ---
 
-*"The only limit to our realization of tomorrow will be our doubts of today."* – *Franklin D. Roosevelt*
+*"Fist thing to do, when you find yourself in trouble is admit to yourself what you did to get yourself there."* – *Jessica Pearson*
+
