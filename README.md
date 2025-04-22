@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 
-I'm Prashant Gupta, a passionate **Automation Specialist**, **DevOps Enthusiast**. I am masters student majoring in **MS in Information Systems** with a minor in **Data Analytics** from University of Cincinnati. With a strong foundation in **Test Automation**, **DevOps**, and **AWS**, I thrive on solving complex challenges and building scalable, efficient solutions.  
+I'm Prashant Gupta, a passionate **Automation Specialist**, **DevOps Enthusiast**. I am masters student majoring in **MS in Information Systems** with a minor in **Data Analytics** from University of Cincinnati. With a strong foundation in **Java**, **DevOps**, and **AWS**, I thrive on solving complex challenges and building scalable, efficient solutions.  
 
 When I’m not coding, you’ll find me exploring the streets with my camera 📸 or gardening 🌱.
 You can find more about me on my [Portfolio](https://itsprashant.me)
